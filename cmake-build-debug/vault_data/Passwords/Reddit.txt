@@ -1,0 +1,3 @@
+SERVICE=Reddit
+USERNAME=Ktoha
+PASSWORD=vglmwpffnfvmwjojbnGlmf!@

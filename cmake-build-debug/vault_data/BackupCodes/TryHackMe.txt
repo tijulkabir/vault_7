@@ -1,0 +1,3 @@
+ACCOUNT=TryHackMe
+USERNAME=tijul_kabir
+CODE=wkn\ab`hvs!@

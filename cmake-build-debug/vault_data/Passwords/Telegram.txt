@@ -1,0 +1,3 @@
+SERVICE=Telegram
+USERNAME=Tijul Kabir Toha
+PASSWORD=WkfQvppjbmHjg :3!@

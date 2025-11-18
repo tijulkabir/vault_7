@@ -1,0 +1,3 @@
+SERVICE=Instagram
+USERNAME=tijul_kabir
+PASSWORD=Elqwkf@lloHjgC5:!@

@@ -1,0 +1,3 @@
+SERVICE=Twitter
+USERNAME=tijulkabbirtoha
+PASSWORD=NvphHJibzklC66!@

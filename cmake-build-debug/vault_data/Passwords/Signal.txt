@@ -1,0 +1,3 @@
+SERVICE=Signal
+USERNAME=tijulkabir
+PASSWORD=ejoowkfkjooC66!@
